@@ -1,2 +1,5 @@
 # hello-world
-A short description (optional)
+
+Making some updates to the readme file now.
+
+Looks good.  Ready to commit.
